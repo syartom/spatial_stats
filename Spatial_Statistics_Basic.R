@@ -106,3 +106,6 @@ tm_shape(world) +
     legend.outside = TRUE
   )
 
+
+# INI ADALAH BARIS BARU PERCOBAAN
+
